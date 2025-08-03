@@ -1,0 +1,5 @@
+{
+  "name": "Basti Ki Pathshala NGO Portal",
+  "description": "A web application for 'Basti Ki Pathshala' NGO to manage volunteer and intern registrations. It includes a home page, a registration form, and an admin view to see applicants.",
+  "requestFramePermissions": []
+}
